@@ -21,9 +21,6 @@
     <ClInclude Include="Flower.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Dog.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Animal.cpp">
@@ -33,9 +30,6 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="Flower.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Dog.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
